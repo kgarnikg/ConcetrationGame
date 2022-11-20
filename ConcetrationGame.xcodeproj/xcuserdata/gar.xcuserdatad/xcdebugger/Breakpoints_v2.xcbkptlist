@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "16802462-0E09-4A18-AC6B-99C3759B9991"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "93E376C0-39AC-4D85-A808-3948D38514DE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ConcetrationGame/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "93E376C0-39AC-4D85-A808-3948D38514DE - 4c7bd14e044cbcd8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ConcetrationGame.ViewController.game.getter : ConcetrationGame.ConcetrationGame"
+                  moduleName = "ConcetrationGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gar/SWIFT/ConcetrationGame/ConcetrationGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "93E376C0-39AC-4D85-A808-3948D38514DE - 73a6fd76f8f4c8cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ConcetrationGame.ViewController.game.setter : ConcetrationGame.ConcetrationGame"
+                  moduleName = "ConcetrationGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gar/SWIFT/ConcetrationGame/ConcetrationGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "93E376C0-39AC-4D85-A808-3948D38514DE - 1396a7480ff197dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ConcetrationGame.ViewController.game.modify : ConcetrationGame.ConcetrationGame"
+                  moduleName = "ConcetrationGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gar/SWIFT/ConcetrationGame/ConcetrationGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "93E376C0-39AC-4D85-A808-3948D38514DE - 5bbeddb12f506e6d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ConcetrationGame.ViewController.game.modify : ConcetrationGame.ConcetrationGame with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ConcetrationGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gar/SWIFT/ConcetrationGame/ConcetrationGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "93E376C0-39AC-4D85-A808-3948D38514DE - ddcd5bb130c82380"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ConcetrationGame.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ConcetrationGame.ViewController"
+                  moduleName = "ConcetrationGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gar/SWIFT/ConcetrationGame/ConcetrationGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "93E376C0-39AC-4D85-A808-3948D38514DE - b493643ff38e0e8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ConcetrationGame.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ConcetrationGame.ViewController&gt;"
+                  moduleName = "ConcetrationGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gar/SWIFT/ConcetrationGame/ConcetrationGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7E77A930-8754-4E21-80A3-2977F56864C8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ConcetrationGame/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3"
+            endingLineNumber = "3"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
